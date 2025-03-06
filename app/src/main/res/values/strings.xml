@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2_4</string>
+    <string-array name="aa">
+        <item>asdda</item>
+        <item>asfasf</item>
+    </string-array>
+</resources>
